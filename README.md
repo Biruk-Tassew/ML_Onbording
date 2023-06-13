@@ -465,7 +465,4 @@ plt.show()
 
 
 
-```python
-jupyter nbconvert --to markdown Tasks.ipynb
 
-```
